@@ -73,7 +73,7 @@ header a {
     color: red;
 }
 
-#hero {
+#home {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.ytimg.com/vi/9qq7PeMw6dw/maxresdefault.jpg');
 }
 
@@ -81,6 +81,3 @@ header a {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://s3.amazonaws.com/backroadsprotips/wysiwyg1528500094424-greece-travel-guide-article.jpg');
 }
 
-#contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://nerdist.com/wp-content/uploads/2019/06/The-Matrix-code.jpg');
-}
