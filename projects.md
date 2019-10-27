@@ -16,8 +16,8 @@ filename: projects.md
             <img src="https://www.depts.ttu.edu/careercenter/images/slideshow/HireRedRaiders.jpg" class="profile-img">
             <nav>
                 <ul>
-                    <li><a href="index.md">Home</a></li>
-                    <li><a href="projects.md">Projects</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="projects.html">Projects</a></li>
                 </ul>
             </nav>
         </header>
