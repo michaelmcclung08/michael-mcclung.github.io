@@ -16,8 +16,8 @@ filename: projects.md
             <img src="https://www.depts.ttu.edu/careercenter/images/slideshow/HireRedRaiders.jpg" class="profile-img">
             <nav>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="index.md">Home</a></li>
+                    <li><a href="projects.md">Projects</a></li>
                 </ul>
             </nav>
         </header>
@@ -31,18 +31,8 @@ filename: projects.md
             </section>
             <section id="about">
                 <div class="section-inner">
-                    <h3>About me</h3>
-                    <p>I started out at Richland College in Dallas, Texas and graduated with an AS in Science.
-                        <br>I am currently a senior at Texas Tech University graduating in May 2020 with a Bachelors of Computer Science.</br>
-                        <br>I hope you enjoy exploring my website and thank you for visiting!</br></p>
-                    <h3>Achievements</h3>
-                        <p>Bachelor of Computer Science, May 2020
-                         <br>Associates of Science, December 2019</br></p>
-                    <h3>Internships</h3>
-                        <p>Northrop Grumman, Software Engineer - Intern, Summer 2019</p>
-                    <h3>Hobbies</h3>
-                    <p>I love to travel and go to different beaches and nature areas.
-                    <br>I also enjoy working out, playing guitar, and coding on my off time.</br></p>
+                    <h3>Projects</h3>
+                <p>Here are my projects I would like to share from Richland Community College and Texas Tech University, enjoy!</p>
                 </div>
             </section>
         </main>
