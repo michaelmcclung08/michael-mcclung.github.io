@@ -25,14 +25,11 @@ filename: projects.md
             <section id="home">
                 <div class="section-inner">
                     <img src="https://media.licdn.com/dms/image/C4E03AQE9XG4zfdT-ug/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=uQaeQIzmRbv29L1ydskpiIXQlasXJCrZX40wn2cZ5cs" class="profile-img">
-                    <h1>Hello, my name is Michael McClung.</h1>
-                    <h2>Welcome to my website!</h2>
+                    <h2>PROJECTS</h2>
                 </div>
             </section>
             <section id="about">
                 <div class="section-inner">
-                    <h3>Projects</h3>
-                <p>Here are my projects I would like to share from Richland Community College and Texas Tech University, enjoy!</p>
                 </div>
             </section>
         </main>
